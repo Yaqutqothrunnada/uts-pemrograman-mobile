@@ -25,7 +25,7 @@ public class DataProvider {
         nasionals.add(new Nasional("IDAM KHALID ", "kalimantan",
                 "IdamKhalid  IdhamChalidbergabungkedalambadan-badanperjuangan. Menjelangkemerdekaan, iaaktifdalamPanitiaKemerdekaan Indonesia Daerah di kotaAmuntai", R.drawable.nasional_idam_khalid));
         nasionals.add(new Nasional("JENDRAL SOEDIRMAN", "Jawa Tengah ",
-                "Jendralsoedirman lahir di BodasKarangjati, Rembang, Purbalingga, 24 Januari 1916", R.drawable.nasional_jendral_soedirman));
+                "Jendral .soedirman lahir di BodasKarangjati, Rembang, Purbalingga, 24 Januari 1916", R.drawable.nasional_jendral_soedirman));
         nasionals.add(new Nasional("RA.KARTINI", "jawa Tengah",
                 "RadenAjengKartini, beliaudikenalsebagaipahlawannasional yang dikenalmasyarakatgigihmemperjuangkanemansipasiwanita", R.drawable.nasional_rakartini));
         return nasionals;
